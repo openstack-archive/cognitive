@@ -1,7 +1,0 @@
-[run]
-branch = True
-source = cognitive
-omit = cognitive/openstack/*
-
-[report]
-ignore-errors = True
